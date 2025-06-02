@@ -3,16 +3,16 @@ const chalk = require('chalk');
 
 /* ==== SETTINGS ==== */
 global.prefa = [',', '!', '.', '#', '&'];
-global.autoRecording = true; // auto recording
-global.autoTyping = true; // auto typing
-global.autorecordtype = true; // auto typing + recording
+global.autoRecording = false; // auto recording
+global.autoTyping = false; // auto typing
+global.autorecordtype = false; // auto typing + recording
 global.autoread = true; // auto read messages
 global.autobio = false; // auto update bio
-global.chatbot = true; // Enable text chatbot
+global.chatbot = false; // Enable text chatbot
 global.emojiReact = false; // Default: enabled
-global.ownernomer = "263786115435";
-global.ownername = "𝚚𝚞𝚎𝚎𝚗-𝚛𝚞𝚟𝚊 𝙰𝙸";
-global.ownernumber = '263786115435';
+global.ownernomer = ""2348168949787;
+global.ownername = "𝓥𝓲𝓬𝓽𝓸𝓻";
+global.ownernumber = '2348168949787';
 // Add country codes to block (e.g., +1, +91, +44)
 global.blockedCountryCodes = ["+92", "91", "+62"]; // Blocks US & UK numbers
 
@@ -20,11 +20,11 @@ global.blockedCountryCodes = ["+92", "91", "+62"]; // Blocks US & UK numbers
 global.ytname = "YT: https://www.youtube.com/@iconic-tech";
 global.socialm = "GitHub: https://github.com/kineboii";
 global.location = "zimbabwe/bulawayo";
-global.ownername = "iconic tech";
-global.botname = "ǫᴜᴇᴇɴ ʀᴜᴠᴀ ᴀɪ";
+global.ownername = "𝓥𝓲𝓬𝓽𝓸𝓻";
+global.botname = "𝓥𝓲𝓬𝓽𝓸𝓻";
 
-global.packname = "ʀᴏʙᴏᴛɪᴄ";
-global.author = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴄᴏɴɪᴄ";
+global.packname = "𝓥𝓲𝓬𝓽𝓸𝓻";
+global.author = "𝓥𝓲𝓬𝓽𝓸𝓻";
 
 global.themeemoji = "🤖";
 global.wm = "ɪᴄᴏɴɪᴄ ᴛᴇᴄʜ";
@@ -40,14 +40,14 @@ global.xbugtex = {
 
 // Reply Messages
 global.mess = {
-    done: "✅ Task completed successfully!",
+    done: "✅ Task completed successfully by 𝓥𝓲𝓬𝓽𝓸𝓻!",
     prem: "🔒 Premium feature - upgrade to access this!",
     admin: "⛔ Admin privileges required",
     botAdmin: "🤖 Please make me admin to use this feature",
     owner: "🚫 Owner-only command detected",
     group: "💬 This command works in groups only",
     private: "📩 Please use this in private chat with me",
-    wait: "⏳ Processing your request...",
+    wait: "⏳𝓥𝓲𝓬𝓽𝓸𝓻 is Processing your request...",
     error: "❌ Oops! Something went wrong",
 };
 
